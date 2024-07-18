@@ -3,8 +3,7 @@
 This code is very important to me, as it was my introduction to the programming world.
 
 Key Features:
-**A* Pathfinding Algorithm
-**Flood Fill Algorithm
-**Collision Detection
-**Console Board Representation
-
+*A* Pathfinding Algorithm  
+*Flood Fill Algorithm  
+*Collision Detection  
+*Console Board Representation  
