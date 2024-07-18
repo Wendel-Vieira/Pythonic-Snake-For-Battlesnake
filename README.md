@@ -4,7 +4,7 @@ This code is very important to me, as it was my introduction to the programming 
 I worked on it for two months and was able to get top 60 with this version.
 
 Key Features:  
-*A* Pathfinding Algorithm  
+*A Star Pathfinding Algorithm  
 *Flood Fill Algorithm  
 *Collision Detection  
 *Console Board Representation  
