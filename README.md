@@ -10,4 +10,4 @@ Key Features:
 *Console Board Representation  
 
 Here is an example of how the board is represented on the console;  
-![Screenshot](https://github.com/user-attachments/assets/dc1d3fc2-8cee-42ea-ad46-c8eaf55407a4)
+![board](https://github.com/user-attachments/assets/4e1e0690-1a5c-4c30-b908-9bbc48384dff)
