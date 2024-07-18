@@ -11,4 +11,4 @@ Key Features:
 
 Here is an example of how the board is represented on the console;  
 
-![board](https://github.com/user-attachments/assets/7e092406-0f73-4b07-a196-272a5d2a4c46)
+![board1](https://github.com/user-attachments/assets/d0acc1d9-22ca-42e5-a6a4-5d843a1a3dfc)
