@@ -15,7 +15,7 @@ Here is an example of how the board is represented on the console;
 Each snake has it own colors, with the player snake always being blue by default. 
 The '@' represents the body of a snake, and the '3' it's head.  
 
-Each free tile is represented as a dot, and it's color is determined by the snake whom can get to that tile first. 
+Each free tile is represented as a dot, and it's color is determined by the snake whom can get to that tile first.  
 White dots are tiles where no snake can get to them first, so no snake "has" it.  
 'F' represents food available on the board, and as you can deduct, it's color is also dependent on whom can get to it before other snakes.  
 All this is done using information gotten from the Flood Fill Algo.
