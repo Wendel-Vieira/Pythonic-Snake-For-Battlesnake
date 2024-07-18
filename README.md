@@ -8,3 +8,8 @@ Key Features:
 *Flood Fill Algorithm  
 *Collision Detection  
 *Console Board Representation  
+
+Here is an example of how the board is represented on the console;  
+[screen-capture (1).webm](https://github.com/user-attachments/assets/9fd2cc86-9919-43a7-a2da-01380dc916a9)
+
+
