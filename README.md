@@ -1,4 +1,4 @@
-![snakey](https://github.com/user-attachments/assets/aaaf3441-c30f-4c4e-a000-e36891eea1b2)![pythonic snake gif](https://github.com/user-attachments/assets/bda4a40e-13c7-4557-ad30-21e2b7545c21)
+[pythonic snake gif](https://github.com/user-attachments/assets/bda4a40e-13c7-4557-ad30-21e2b7545c21)
 
 This code is very important to me, since it was my introduction to the programming world.  
 I worked heavily on it for two months and was able to get top 60 with this version.
