@@ -1,7 +1,9 @@
+[What is Battlesnake?](https://docs.battlesnake.com/)
+  
 ![349844627-bda4a40e-13c7-4557-ad30-21e2b7545c21](https://github.com/user-attachments/assets/a0f64758-c22a-4727-a6d7-2b4f48e584ac)  
 
 This code is very important to me.
-I worked on it for two months and was able to get top 60 with this version.
+I worked on it for two months and was able to get top 60 worldwide.
 
 Key Features:  
 *A Star Pathfinding Algorithm  
