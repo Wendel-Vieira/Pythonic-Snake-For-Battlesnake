@@ -41,7 +41,7 @@
 ## About The Project
 
 <a href="https://docs.battlesnake.com">
-  <img src="https://github.com/user-attachments/assets/a0f64758-c22a-4727-a6d7-2b4f48e584ac" alt="Project Image" width="400" height="300">
+  <img src="https://github.com/user-attachments/assets/a0f64758-c22a-4727-a6d7-2b4f48e584ac" alt="Project Image" width="600" height="300">
 </a>
 
 
@@ -95,8 +95,8 @@ Distributed under the MIT License.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-- [Battlesnake](https://battlesnake.com) for proving this amazing competitive game 😊.
-- [Battlesnake Doc](https://docs.battlesnake.com) for their documentation on how to play the game!.
+- [Battlesnake](https://battlesnake.com) for providing this amazing competitive game 😊.
+- [Battlesnake Doc](https://docs.battlesnake.com) for their documentation on how to code your snake!
 
 <!-- links and images -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
