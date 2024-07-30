@@ -56,7 +56,8 @@
 This representation of the game on the console was very important to implement because it uses information obtained from the flood fill algorithm, and with that we are able to debug and check if anything is going wrong with it.  
   
 Each snake has its own colors, with the player snake always being blue by default. The '@' represents the body of a snake, and the '3' its head.  
-Each free tile is represented as a dot, and its color is determined by the snake that can get to that tile first. White dots are tiles where no snake can get to them first, so no snake "has" it. 'F' represents food available on the board, and its color is also dependent on which snake can get to it before other snakes.
+Each free tile is represented as a dot, and its color is determined by the snake that can get to that tile first. White dots are tiles where no snake can get to them first, so no snake "has" it.  
+'F' represents food available on the board, and its color is also dependent on which snake can get to it before other snakes.
 
 [![Console Board][console-board]](https://docs.battlesnake.com)
 
