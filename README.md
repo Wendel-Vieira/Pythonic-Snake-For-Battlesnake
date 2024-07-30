@@ -5,7 +5,7 @@
     <img src="https://res.cloudinary.com/micronetonline/image/upload/c_crop,h_1081,w_1389,x_0,y_0/v1623965831/tenants/d67d1859-c8c5-41c2-91ff-23438f7f2e89/4ecbc74ac2704ae591a88e522461ff79/Full-Logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Battlesnake AI</h3>
+  <h3 align="center">Pythonic Snake</h3>
 
   <p align="center">
     A competitive Battlesnake AI that got top 60 worldwide.
